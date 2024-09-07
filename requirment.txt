@@ -1,0 +1,6 @@
+Django==<version>
+djangorestframework==<version>
+zegocloud-sdk==<version>  # Assuming this is the ZEGOCLOUD API package name
+sqlite3==<version>
+channels==<version>  # For WebSocket support if using Django channels
+asgiref==<version>
